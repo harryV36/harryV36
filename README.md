@@ -5,10 +5,6 @@
 🚀 Aspiring AI/ML Engineer | Backend Developer  
 💡 Exploring Computer Vision, Audio AI & Intelligent Systems.
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=harryV36&theme=tokyonight)
-
 
 ## 🛠️ Tech Stack
 
